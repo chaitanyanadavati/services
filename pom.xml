@@ -11,8 +11,8 @@
 
 <distributionManagement>
   <repository>
-    <id>E-comm</id>
-    <url>http://localhost:8081/nexus/content/repositories/E-comm</url>
+    <id>firstRepo</id>
+    <url>http://localhost:8081/nexus/content/repositories/firstRepo</url>
   </repository>
 </distributionManagement>
 
